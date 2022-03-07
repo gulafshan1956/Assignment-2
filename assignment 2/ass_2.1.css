@@ -1,0 +1,204 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#h1{
+    color: red;
+    background-color: aqua;
+    border: 5px ,rgb(51, 39, 35);
+    height: 200px;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#h2{
+    margin-top: 10px;
+    color: red;
+    background-color: rgba(66, 95, 95, 0.589);
+    border: 5px ,rgb(51, 39, 35);
+    height: 200px;
+    width: 49%;
+    float: left;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#h3{
+    margin-top: 10px;
+    color: red;
+    background-color: rgba(75, 133, 133, 0.623);
+    border: 5px ,rgb(51, 39, 35);
+    height: 200px;
+    width: 48%;
+    float: right;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#h4{
+    margin-top: 10px;
+    color: red;
+    background-color: rgba(0, 255, 255, 0.623);
+    border: 5px ,rgb(51, 39, 35);
+    height: 200px;
+    width: 100%;
+    float: right;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#h5{
+    margin-top: 10px;
+    color: red;
+    background-color: rgba(71, 14, 104, 0.623);
+    border: 5px ,rgb(51, 39, 35);
+    height: 100px;
+    width: 100%;
+    float: right;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#h6{
+    margin-top: 5px;
+    color: red;
+    background-color: rgba(14, 104, 41, 0.623);
+    border: 5px ,rgb(51, 39, 35);
+    height: 100px;
+    width: 100%;
+    float: right;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#h6{
+    margin-top: 5px;
+    color: red;
+    background-color: rgba(21, 230, 83, 0.623);
+    border: 5px ,rgb(51, 39, 35);
+    height: 100px;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#h7{
+    border: 5px solid snow;
+    color: red;
+    background-color: rgba(66, 62, 63, 0.623);
+    height: 300px;
+    width: 20%;
+    float: left;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#h9{
+    border: 5px solid snow;
+    color: red;
+    background-color: rgba(66, 62, 63, 0.623);
+    height: 300px;
+    width: 20%;
+    float: right;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#h8{
+    margin: auto;
+    border: 5px solid snow;
+    color: red;
+    background-color: rgba(66, 62, 63, 0.623);
+    height: 300px;
+    width: 56%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#h10{
+    margin-top: 5px;
+    color: red;
+    background-color: rgba(173, 59, 145, 0.623);
+    border: 5px ,rgb(51, 39, 35);
+    height: 100px;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#h11{
+    margin-top: 10px;
+    color: red;
+    background-color: rgba(71, 14, 104, 0.623);
+    border: 5px ,rgb(51, 39, 35);
+    height: 100px;
+    width: 100%;
+    float: right;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#h12{
+    margin-top: 5px;
+    color: red;
+    background-color: rgba(21, 230, 83, 0.623);
+    border: 5px ,rgb(51, 39, 35);
+    height: 100px;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#h13{
+    border: 5px solid snow;
+    color: red;
+    background-color: rgba(66, 62, 63, 0.623);
+    height: 300px;
+    width: 20%;
+    float: left;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#h14{
+    border: 5px solid snow;
+    color: red;
+    background-color: rgba(66, 62, 63, 0.623);
+    height: 400px;
+    width: 20%;
+    float: right;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#h15{
+    margin: auto;
+    border: 5px solid snow;
+    color: red;
+    background-color: rgba(66, 62, 63, 0.623);
+    height: 300px;
+    width: 56%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#h16{
+    margin-top: 5px;
+    color: red;
+    background-color: rgba(173, 59, 145, 0.623);
+    border: 5px ,rgb(51, 39, 35);
+    height: 100px;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
